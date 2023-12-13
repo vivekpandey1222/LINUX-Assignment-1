@@ -27,7 +27,7 @@ The ‘rmdir’  command is used to remove(delete) a directory.
 
 Exa- 
 ```
-rmdir test 
+rmdir test
 ```
 **Output:**
 ```
@@ -83,14 +83,14 @@ mv file1.txt file2.txt
 **Output:**
 ```
 vivek@vivek-HP-EliteBook-840-G2:~/Linux$ ls
-directory\_1  file1.txt
+directory_1  file1.txt
 vivek@vivek-HP-EliteBook-840-G2:~/Linux$ mv file1.txt file2.txt
 vivek@vivek-HP-EliteBook-840-G2:~/Linux$ ls
-directory\_1  file2.txt
-vivek@vivek-HP-EliteBook-840-G2:~/Linux$ mv file2.txt /home/vivek/Linux/directory\_1/
+directory_1  file2.txt
+vivek@vivek-HP-EliteBook-840-G2:~/Linux$ mv file2.txt /home/vivek/Linux/directory_1/
 vivek@vivek-HP-EliteBook-840-G2:~/Linux$ ls
-directory\_1
-vivek@vivek-HP-EliteBook-840-G2:~/Linux$ ls directory\_1/
+directory_1
+vivek@vivek-HP-EliteBook-840-G2:~/Linux$ ls directory_1/
 file2.txt
 vivek@vivek-HP-EliteBook-840-G2:~/Linux$
 ```
@@ -146,7 +146,7 @@ We can use the ‘rm’ command to delete multiple files.
 
 Exa-
 ```
-rm a.txt b.txt c.txt d.txt e.txt 
+rm a.txt b.txt c.txt d.txt e.txt
 ```
 **Output:**
 ```
